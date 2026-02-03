@@ -155,7 +155,9 @@ To become a **Full Stack Java Developer** by building scalable, real-world appli
 ## 🔗 Connect With Me
 
 * GitHub: [https://github.com/aka-sidd](https://github.com/aka-sidd)
-* LinkedIn: *(Add your LinkedIn profile link here)*
+* LinkedIn: *(www.linkedin.com/in/
+siddharth-pandey-21b37b2aa
+)*
 
 ---
 
